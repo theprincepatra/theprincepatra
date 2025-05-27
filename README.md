@@ -4,7 +4,7 @@
 
   <h1 style="color: #a259ff;">Hi there 👋 I'm Prince Patra</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Currently+Puring+pursuing+B-Tech;Front-End+Developer+%26+Designer;Open+Source+Contributor;Intermediate+in+Java(DSA)+and+Python;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Currently+pursuing+B-Tech;Front-End+Developer+%26+Designer;Open+Source+Contributor;Intermediate+in+Java(DSA)+and+Python;Always+Learning+New+Tech!" alt="Typing SVG" />
 
 </div>
 
@@ -52,7 +52,7 @@ collaborate on open-source projects
   <a href="princepatra9951@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/theprincepatra-1p1]">
+  <a href="www.linkedin.com/in/theprincepatra-1p1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
