@@ -36,10 +36,10 @@ collaborate on open-source projects
 <table align="center" style="border: none;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohd-FaiZ-Jr&show_icons=true&theme=radical&border_radius=10" width="420" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=theprincepatra&show_icons=true&theme=radical&border_radius=10" width="420" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohd-FaiZ-Jr&theme=radical&border_radius=10" width="420" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=theprincepatra&theme=radical&border_radius=10" width="420" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
