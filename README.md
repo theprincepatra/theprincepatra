@@ -1,48 +1,58 @@
-<h1 align="left">Hi👋! I'm Prince from Balangir, Odisha</h1>
+<div align="center">
 
-###
+  <img src="snow.gif" width="100%" />
+
+  <h1 style="color: #a259ff;">Hi there 👋 I'm Prince Patra</h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%26+Designer;Aspiring+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+I’m a sufficient in **Front-end**, actively exploring full-stack development, Currently ended the Intermidiate level **Java with DSA** and **Pyton**
+love learning modern techs
+collaborate on open-source projects
+
+💡 **Fun facts:**
+- Passionate about UI/UX & accessibility
+- Love building for real-world use cases
+- I believe in *keeping the grind* 💪
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theprincepatra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theprincepatra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprincepatra&theme=dracula&area=true&hide_border=false" height="150" alt="activity-graph graph"  />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,github,vscode&theme=light" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/theprincepatra-1p1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="110" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="princepatra9951@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="110" height="50" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/theprincepatra/?igsh=bzZ4c3VkNG5pZGl2#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="110" height="50" alt="instagram logo"  />
-  </a>
-  <a href="@theprincepatra" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="110" height="50" alt="discord logo"  />
-  </a>
-</div>
+### 📈 GitHub Stats
 
-###
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohd-FaiZ-Jr&show_icons=true&theme=radical&border_radius=10" width="420" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohd-FaiZ-Jr&theme=radical&border_radius=10" width="420" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-</div>
+---
 
-###
-
-<br clear="both">
+### 📫 Contact Me
 
 <div align="center">
-  <img height="304" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <a href="mailto:princepatra9951@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="(https://www.linkedin.com/in/theprincepatra-1p1)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
-
-###
