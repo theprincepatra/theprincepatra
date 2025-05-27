@@ -4,7 +4,7 @@
 
   <h1 style="color: #a259ff;">Hi there 👋 I'm Prince Patra</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%26+Designer;Aspiring+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%26+Designer;Aspiring+Software+Engineer;Open+Source+Contributor;Intermidiate+in+Java(DSA)+and+Python;Always+Learning+New+Tech!" alt="Typing SVG" />
 
 </div>
 
