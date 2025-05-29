@@ -8,7 +8,7 @@
 
   <!-- Typing SVG with bigger width -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=800&lines=Currently+pursuing+B-Tech;Front-End+Developer+%26+Designer;Open+Source+Contributor;Intermediate+in+Java(DSA)+and+Python;Always+Learning+New+Tech!" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+Profile;Currently+pursuing+B-Tech;Front-End+Developer+%26+Designer;Open+Source+Contributor;Intermediate+in+Java(DSA)+and+Python;Always+Learning+New+Tech!" 
     alt="Typing SVG" 
   />
 
