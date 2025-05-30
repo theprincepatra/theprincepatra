@@ -52,7 +52,12 @@ Love learning modern techs and collaborating on open-source projects.
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprincepatra&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1e90ff&hide_border=true" width="100%" alt="Custom Blue Graph with White Dots" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=FF4C4C&text_color=ADD8E6&border_color=FF4C4C&custom_color=FF4C4C,ADD8E6,FFD700,ADD8E6,FF4C4C,ADD8E6,FFD700,ADD8E6" alt="Top Langs Card"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprincepatra&bg_color=0d1117&color=f74545&line=ff0000&point=ffffff&area=true&area_color=c48f8f&hide_border=true" width="100%" alt="Custom Blue Graph with White Dots" />
 </div>
 
 ---
