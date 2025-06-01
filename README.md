@@ -1,4 +1,3 @@
-[media pointer="file-service://file-ULJnWox2zHqmVNddfYuYsJ"]
 <div align="center">
   <img src="snow.gif" width="100%" />
 
@@ -50,7 +49,7 @@ I’m a dedicated **Python & Java Developer**, passionate about **Data Structure
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprincepatra&theme=react-dark&radius=16&area=true&order=5&line_color=ff0000&point_color=000000&axis_color=FF0000&bg_color=000000&cache_bust=2" height="250" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprincepatra&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
