@@ -3,17 +3,16 @@
 
   <h1 style="color: #ff4c4c;">Hi there 👋 I'm Prince Patra</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4C4C&center=true&vCenter=true&width=500&lines=Python+%26+Java+Programmer;DSA+Enthusiast+%26+AIML+Explorer;Future+SDE+In+Progress;Always+Grinding+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4C4C&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+Profile;Intermidiate+in+Python+%26+Java;DSA+Enthusiast+%26+AIML+Explorer;Exploring+the+Web-D+World;Always+Grinding+Code!" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a dedicated **Python & Java Developer**, passionate about **Data Structures & Algorithms** and currently diving deep into **AI/ML**. Aiming for a future as a skilled **SDE**, I build solutions that are both functional and efficient.
+I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Data Structures & Algorithms** and currently diving deep into **AI/ML** and **Full stack development**.
 
 💡 **Fun facts:**
-- Passionate about UI/UX & accessibility
 - Love building for real-world use cases
 - I believe in *keeping the grind* 💪
 
@@ -22,7 +21,7 @@ I’m a dedicated **Python & Java Developer**, passionate about **Data Structure
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,github,vscode&theme=light" />
 </div>
 
 ---
