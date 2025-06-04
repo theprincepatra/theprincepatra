@@ -3,7 +3,7 @@
 
   <h1 style="color: #ff4c4c;">Hi there 👋 I'm Prince Patra</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4C4C&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+Profile;Intermidiate+in+Python+%26+Java;DSA+Enthusiast+%26+AIML+Explorer;Exploring+the+Web-D+World;Always+Grinding+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1ac3ed&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+Profile;Intermidiate+in+Python+%26+Java;DSA+Enthusiast+%26+AIML+Explorer;Exploring+the+Web-D+World;Always+Grinding+Code!" alt="Typing SVG" />
 </div>
 
 ---
@@ -40,7 +40,7 @@ I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Dat
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=FF4C4C&text_color=ADD8E6&border_color=FF4C4C" alt="Top Langs Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=31e1f5&text_color=ca6ef5&border_color=000000" alt="Top Langs Card"/>
 </div>
 
 ---
