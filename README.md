@@ -40,7 +40,7 @@ I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Dat
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=ff0a84&text_color=ca6ef5&border_color=000000" alt="Top Langs Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=f71485&text_color=ca6ef5&border_color=000000" alt="Top Langs Card"/>
 </div>
 
 ---
