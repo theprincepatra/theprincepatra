@@ -33,9 +33,6 @@ I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Dat
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=theprincepatra&show_icons=true&theme=radical&border_radius=10" width="420" alt="GitHub Stats"/>
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=theprincepatra&theme=radical&border_radius=10" width="420" alt="GitHub Streak"/>
-    </td>
   </tr>
 </table>
 
@@ -43,13 +40,6 @@ I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Dat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=f71485&text_color=ca6ef5&border_color=000000" alt="Top Langs Card"/>
 </div>
 
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprincepatra&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ---
 
