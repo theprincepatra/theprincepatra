@@ -14,7 +14,7 @@ I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Dat
 
 💡 **Fun facts:**
 - Love building for real-world use cases
-- I believe in *keeping the grind* 💪
+- *keeping the grind* 💪
 
 ---
 
