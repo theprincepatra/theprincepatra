@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a dedicated **Python, Java & Front-End Developer**, passionate about **Data Structures & Algorithms** and currently diving deep into **AI/ML** and **Full Stack Development**.
+I’m a dedicated **Python, Java & Web Development**, passionate about **Data Structures & Algorithms** and currently diving deep into **AI/ML** and **Backend Developer**.
 
 💡 **Fun facts:**
 - Love building for real-world use cases
