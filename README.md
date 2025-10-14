@@ -22,7 +22,7 @@ I’m a dedicated **Python, Java & Web Development**, passionate about **Data St
 
 <div align="center">
   <!-- Added nodejs, express, react -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,nodejs,express,react,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,javascript,nodejs,express,react,mongodb,github,vscode&theme=light" />
 </div>
 
 ---
