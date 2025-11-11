@@ -1,7 +1,7 @@
 <div align="center">
   <img src="snow.gif" width="100%" />
 
-  <h1 style="color: #ff4c4c;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hii.img" />, I'm Prince Patra</h1>
+  <h1 style="color: #ff4c4c;">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="hii.img" /> I'm Prince Patra</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1ac3ed&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github+Profile;Intermediate+in+Python+%26+Java;DSA+Enthusiast+%26+AIML+Explorer;Exploring+the+Web+Dev+World;Always+Grinding+Code!" alt="Typing SVG" />
 </div>
