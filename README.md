@@ -29,13 +29,7 @@ I’m a dedicated **Python, Java & Web Development**, passionate about **Data St
 
 ### 📊 GitHub Stats
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=theprincepatra&show_icons=true&theme=radical&border_radius=10" width="420" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=f71485&text_color=ca6ef5&border_color=000000" alt="Top Langs Card"/>
