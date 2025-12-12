@@ -34,11 +34,16 @@ I’m a dedicated **Python, Java & Web Development**, passionate about **Data St
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&hide_border=false&title_color=80a4c2&text_color=9abdd8&border_color=2c4a63&bg_color=0d1117"
+    alt="Top Languages"
+  />
+</p>
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprincepatra&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=f71485&text_color=ca6ef5&border_color=000000" alt="Top Langs Card"/>
-</div>
+
+
 
 ---
 
