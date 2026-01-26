@@ -18,7 +18,7 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 
 ### 🧑‍💻 About Me
 
-I’m a dedicated **Python, Java & Web Development**, passionate about **Data Structures & Algorithms** and currently diving deep into **AI/ML** and **Backend Development**.
+I’m a dedicated **Python, Java & Web Developer**, passionate about **Data Structures & Algorithms** and currently diving deep into **AI/ML** and **Backend Development**.
 
 💡 **Fun facts:**
 - Love building for real-world use cases
