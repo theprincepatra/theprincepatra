@@ -30,7 +30,7 @@ I’m a dedicated **Python, Java & Web Developer**, passionate about **Data Stru
 
 <div align="center">
   <!-- Added nodejs, express, react -->
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,figma,javascript,nodejs,express,angular,react,mongodb,mysql,bootstrap,github,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,html,css,tailwind,figma,javascript,nodejs,express,angular,react,mongodb,mysql,bootstrap,github,linux,vscode&theme=light" />
 </div>
 
 ---
