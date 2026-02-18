@@ -38,11 +38,13 @@ I’m a dedicated **Python, Java & Web Developer**, passionate about **Data Stru
 
 ---
 
-### 📊 Top Languages
-
+### 📊 Languages used
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theprincepatra&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theprincepatra&theme=github_dark" />
 </p>
+
+
+
 
 
 
